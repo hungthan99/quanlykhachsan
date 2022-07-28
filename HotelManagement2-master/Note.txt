@@ -1,0 +1,20 @@
+1. Database 
+	2 actor : NhanVien, QuanLy
+	-- 1 nh vien co the co hoac co tk
+	-- 1 nv co 1 chuc vu : Le tan, Quan Ly, Lao Cong, Phuc vu, Dau Bep.... 
+....... // Can sua them ..............///////////////////////////////////
+
+2. Use case 
+
+  NhanVien (Le Tan) : Đặt Phong, Nhận Phòng, Trả Phòng, Gọi Dịch Vụ, Thanh toán, Thêm với sửa Khách...
+  Quản lý ( chủ Khách sạn ? ) : Phòng (CRUD), Khách, Nội Thất, Dịch Vụ, Nhân Viên, Báo cáo thống kê, Xuất tạm trú tạm vắng (.Csv, êxcel) ..
+
+3. Đặc tả ...
+	làm hết...
+4. Sequence & ACtivity Diagram, Class diagram 
+	 làm hết....
+5. Coding 
+ .. có sẵn khung, hiểu nghiệp vụ, thực thi lại
+github : https://github.com/hinh280999/HotelManagement2.git
+
+TEST

@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Dao/Impliment/NhanVienDao.java=UTF-8
+encoding//src/main/java/Dao/Impliment/PhieuDichVuDao.java=UTF-8
+encoding//src/main/java/Dao/Impliment/PhieuThueDao.java=UTF-8
+encoding//src/main/java/Dao/Impliment/PhongDao.java=UTF-8
+encoding//src/main/java/Dao/Impliment/TaiKhoanDao.java=UTF-8
+encoding//src/main/java/Rmi/Service/PhieuThueService.java=UTF-8
+encoding//src/main/java/Rmi/Service/PhongService.java=UTF-8
+encoding//src/main/java/TestRun/AfterDeleteDatabaseRun.java=UTF-8
+encoding//src/main/java/TestRun/KhachHangDaoTest.java=UTF-8
+encoding//src/main/java/TestRun/NhanVIenDaoTest.java=UTF-8
+encoding//src/main/java/TestRun/PhieuDichVuTest.java=UTF-8
+encoding//src/main/java/TestRun/PhieuThueTest.java=UTF-8
+encoding//src/main/java/TestRun/PhongDaoTest.java=UTF-8
+encoding//src/main/java/TestRun/TTPDaoTest.java=UTF-8
